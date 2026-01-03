@@ -5,4 +5,4 @@ for son in numbers:
     if son % 2 == 0:
         juftlar.append(son)
 
-print(tuple(juftlar))
+print(tuple(juftlar))  

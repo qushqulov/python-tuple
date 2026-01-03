@@ -6,4 +6,4 @@ for ism, email in emails:
     domen = qismlar[1]         
     domenlar.append(domen)
 
-print(domenlar)
+print(domenlar)  
