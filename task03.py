@@ -5,4 +5,4 @@ for soz in words:
     if len(soz) > len(uzun_soz):
         uzun_soz = soz
 
-print(uzun_soz)   
+print(uzun_soz) 
